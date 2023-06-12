@@ -6,7 +6,7 @@ The new design of www.andigital.com.au written in React, and I took the existing
 
 ## Preview
 
-https://xjamiecarrollx.github.io/design-andigital/
+https://KookaburraCoder.github.io/design-andigital/
 
 ## Lighthouse Scores
-<img src="https://raw.githubusercontent.com/xjamiecarroll/design-andigital/main/lighthouse.PNG" alt="scores-missing" />
+<img src="https://raw.githubusercontent.com/KookaburraCoder/design-andigital/main/lighthouse.PNG" alt="scores-missing" />
